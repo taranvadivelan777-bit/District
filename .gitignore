@@ -1,0 +1,35 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+
+# VS Code settings
+.vscode/
+
+# Logs
+*.log
+appium.log
+
+# Reports & screenshots
+reports/
+screenshots/
+
+# Node modules (Appium dependencies)
+node_modules/
+
+# Android / IDE files
+*.iml
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Temporary / backup files
+*.tmp
+*.bak
